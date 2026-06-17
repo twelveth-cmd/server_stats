@@ -1,6 +1,6 @@
 # server_stats
 
-Simple bash script that reports key server stats in a formatted terminal output for easier system server analysis.
+Simple bash script that reports key server stats in a formatted terminal output for easier server analysis.
 
 ## Stats reported
 
