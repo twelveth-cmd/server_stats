@@ -13,7 +13,7 @@ Simple bash script that reports key server stats in a formatted terminal output 
 ## Usage
 
 ```bash
-bash server_stats.sh
+./server_stats.sh
 ```
 
 ## Requirements
